@@ -24,7 +24,7 @@
         will not have any delays see comments in "psxspu.h"
     */
 
-#include <sys\types.h>
+#include <sys/types.h>
 #include <libcdvd.h>
 
 #define _CD_VERSION_  1
